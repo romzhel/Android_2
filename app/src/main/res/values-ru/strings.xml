@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+
+    <string name="menu_item1">Пункт меню 1</string>
+    <string name="menu_item2">Пункт меню 2</string>
+    <string name="menu_item3">Пункт меню 3</string>
+
+    <string name="selected_menu_item1">Выбран пункт меню 1</string>
+    <string name="selected_menu_item2">Выбран пункт меню 2</string>
+    <string name="selected_menu_item3">Выбран пункт меню 3</string>
+
+    <string name="textview_text1">Надпись 1</string>
+    <string name="textview_text2">Надпись 2</string>
+    <string name="textview_text3">Надпись 3</string>
+
+    <string name="context_menu_item1">Пункт контекстного меню 1</string>
+    <string name="context_menu_item2">Пункт контекстного меню 2</string>
+    <string name="context_menu_item3">Пункт контекстного меню 3</string>
+
+    <string name="selected_context_menu_item1">Выбран пункт контекстного меню 1</string>
+    <string name="selected_context_menu_item2">Выбран пункт контекстного меню 2</string>
+    <string name="selected_context_menu_item3">Выбран пункт контекстного меню 3</string>
+
+    <string name="my_for">для</string>
+    <string name="ok">ОК</string>
+    <string name="find">Поиск</string>
+    <string name="search_query">Был введен поисковый запрос:</string>
+
+    <string name="navigation">Навигация</string>
+    <string name="about">О разработчике</string>
+    <string name="feedback">Форма обратной связи</string>
+    <string name="nav_item1">Пункт 1 меню навигационной панели</string>
+    <string name="nav_item2">Пункт 2 меню навигационной панели</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+</resources>
