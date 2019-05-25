@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="menu_item1">Menu Item 1</string>
+    <string name="menu_item2">Menu Item 2</string>
+    <string name="menu_item3">Menu Item 3</string>
+
+    <string name="selected_menu_item1">Menu Item 1 Was Selected</string>
+    <string name="selected_menu_item2">Menu Item 2 Was Selected</string>
+    <string name="selected_menu_item3">Menu Item 3 Was Selected</string>
+
+    <string name="textview_text1">Label 1</string>
+    <string name="textview_text2">Label 2</string>
+    <string name="textview_text3">Label 3</string>
+
+    <string name="context_menu_item1">Context menu Item 1</string>
+    <string name="context_menu_item2">Context menu Item 2</string>
+    <string name="context_menu_item3">Context menu Item 3</string>
+
+    <string name="selected_context_menu_item1">Context menu Item 1 Was Selected</string>
+    <string name="selected_context_menu_item2">Context menu Item 2 Was Selected</string>
+    <string name="selected_context_menu_item3">Context menu Item 3 Was Selected</string>
+
+    <string name="my_for">for</string>
+    <string name="ok">OK</string>
+    <string name="find">Search</string>
+    <string name="search_query">Search query was typed:</string>
+
+    <string name="navigation">Navigation</string>
+    <string name="about">About developer</string>
+    <string name="feedback">Feedback form</string>
+    <string name="nav_item1">Navigation bar item 1</string>
+    <string name="nav_item2">Navigation bar item 2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
 </resources>
